@@ -8,6 +8,7 @@ https://github.com/redis-windows/redis-windows/releases
 https://github.com/qishibo/AnotherRedisDesktopManager/releases
 #### 1.3.Nginx
 http://nginx-win.ecsds.eu/
-#### 1.4.
+#### 1.4.Navicat for mysql
+https://github.com/shuhongfan/NavicatCracker/tree/main/V16.2-%E6%97%A0%E9%99%90%E8%AF%95%E7%94%A8
 ### 2.Android Develop
 ### 3.Web Develop
